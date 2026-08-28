@@ -2,6 +2,12 @@
 
 This repository contains Python scripts, a C++ implementation of digital watermarks, and evaluation results used in the paper *"A method for experimental estimation of correlation distribution in image watermarking."*
 
+## Google Scholar
+
+[Link to paper in Google Scholar](https://scholar.google.com/scholar?cluster=3380722217786160297)
+
+The paper is also stored in the `pdf` directory.
+
 ## Annotation
 
 This paper proposes a method for experimentally estimating the distribution of correlation in correlation-based digital image watermarking. The proposed method evaluates how distortions affect the correlations between image and embedded and non-embedded watermarks. The method involves a computational experiment using an image dataset, where correlations are measured before and after filtering for embedded and non-embedded watermarks. Applying the proposed method to a DCT based watermarking algorithm demonstrates that filtering significantly reduces the correlation with the embedded watermark, while having minimal changes for non-embedded.
